@@ -41,7 +41,7 @@ li a:hover {
 
 h1 {
  color: navy;
- margin-left: 600px
+ text-align: center;
 
 }
 
@@ -52,6 +52,7 @@ h2 {
 
 h3 {
   color: rgb(93, 0, 186) ;
+  text-align: center;
 }
 
 h4 {
