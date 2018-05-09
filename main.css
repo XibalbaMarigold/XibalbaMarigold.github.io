@@ -25,6 +25,7 @@ li {
 }
 
 li a {
+  background: rgb(1, 167, 194);
     display: block;
     color: black;
     text-align: center;
